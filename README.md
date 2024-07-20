@@ -7,21 +7,21 @@ This project implements an ETL pipeline that reads a CSV file, processes the dat
 ## Directory Structure
 
 Project_ALPlanet/
-├── .venv/
-├── Config/
-│ ├── config_template.json
-│ ├── local_config_template.json
-├── data/
-│ ├── AB_NYC_2019.csv
-├── log/
-│ ├── etl_process.log
-│ ├── log_file.log
-├── Src/
-│ ├── .metaflow/
-│ ├── main.py
-│ ├── transformation_on_local.py
-├── README.md
-├── requirements.txt
+ .venv/
+ Config/
+   config_template.json
+   local_config_template.json
+data/
+   AB_NYC_2019.csv
+log/
+  etl_pipeline.log
+  log_file.log
+Src/
+  .metaflow/
+  main.py
+  transformation_on_local.py
+README.md
+requirements.txt
 
 
 ## Setup
