@@ -6,8 +6,8 @@ This project implements an ETL pipeline that reads a CSV file, processes the dat
 
 ## Directory Structure
 
-├── Project_ALPlanet/
-├──.venv/
+├── Project_ALPlanet
+├──.venv
 ├──Config/
 ├────config_template.json
 ├────local_config_template.json
