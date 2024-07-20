@@ -1,0 +1,1 @@
+{"flow_id": "ETLFlow", "run_number": "1721465317346084", "step_name": "read_csv", "task_id": "3", "field_name": "ds-root", "type": "ds-root", "value": "/mnt/c/Users/satwa/OneDrive/Desktop/Project_AI_Planet/Project_AI_Planet/Src/.metaflow", "tags": ["attempt_id:0"], "user_name": "satwant", "ts_epoch": 1721465342222}

@@ -1,0 +1,5 @@
+pandas
+sqlalchemy
+metaflow
+numpy
+psycopg2-binary

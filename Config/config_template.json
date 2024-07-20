@@ -1,0 +1,10 @@
+{
+  "csv_file_path": "path/to/your/csv/AB_NYC_2019.csv",
+  "postgresql": {
+    "user": "your_username",
+    "password": "your_password",
+    "host": "your_host",
+    "port": "your_port",
+    "dbname": "your_dbname"
+  }
+}
